@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-06-12T08:18:24+00:00",
+            "value": "2019-06-12T12:15:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-06-12T08:18:24+00:00",
+            "value": "2019-06-12T12:15:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -77,12 +77,15 @@
             "value": true
         }
     ],
-    "path": [],
-    "menu_link": [
+    "path": [
         {
-            "target_id": null
+            "alias": "\/blog\/blogpost-1",
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
         }
     ],
+    "menu_link": [],
     "body": [
         {
             "value": "<p>Blogpost 1<\/p>\r\n",
