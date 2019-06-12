@@ -1,0 +1,21 @@
+name: engine-eight
+recipe: drupal8
+config:
+  webroot: web
+tooling:
+  npm:
+    service: node
+  drupal:
+    cmd:
+      - "/app/vendor/bin/drupal --root=/app/web"
+  drush:
+    cmd:
+      - "/app/vendor/bin/drush --root=/app/web"
+services:
+  pma:
+    type: phpmyadmin
+  node:
+    type: node
+proxy:
+  pma:
+    - pma.engine-eight.lndo.site

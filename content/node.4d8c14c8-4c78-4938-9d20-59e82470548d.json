@@ -1,0 +1,105 @@
+{
+    "uuid": [
+        {
+            "value": "4d8c14c8-4c78-4938-9d20-59e82470548d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "dc7c32de-aa5b-4284-bef4-c87b5045cc3b"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-12T08:18:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Blogpost 1"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-12T08:18:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-12T08:18:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Blogpost 1<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [],
+    "field_tags": []
+}

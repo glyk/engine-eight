@@ -1,0 +1,22 @@
+name: engine-eight
+type: theme
+description: Engine Eight theme
+package: engine-eight
+core: 8.x
+
+libraries:
+- engine_eight/global-styling
+
+regions:
+  header: 'Header'
+  cookie_bar: 'Cookie bar'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+  footer: 'Footer'
+  hidden: 'Hidden'

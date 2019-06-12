@@ -1,0 +1,14 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      assets/css/styles.op-agency.css: {}
+      assets/vendor/bootstrap/bootstrap.min.css: {}
+      assets/vendor/icon-awesome/css/font-awesome.min.css: {}
+      assets/vendor/hamburgers/hamburgers.min.css: {}
+      assets/vendor/animate.css: {}
+      assets/vendor/slick-carousel/slick/slick.css: {}
+      assets/vendor/revolution-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css: {}
+      assets/vendor/revolution-slider/revolution/css/settings.css: {}
+      assets/vendor/revolution-slider/revolution/css/layers.css: {}
+      assets/vendor/revolution-slider/revolution/css/navigation.css: {}

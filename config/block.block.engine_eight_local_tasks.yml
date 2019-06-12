@@ -1,0 +1,22 @@
+uuid: c7a99dc4-9425-4742-b25e-c736497d0850
+langcode: en
+status: true
+dependencies:
+  theme:
+    - engine_eight
+_core:
+  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
+id: engine_eight_local_tasks
+theme: engine_eight
+region: content
+weight: -40
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

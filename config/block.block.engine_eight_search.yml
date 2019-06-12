@@ -1,0 +1,22 @@
+uuid: 086b6c2c-efa8-416c-acc0-0fe6a1e2d3c4
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - engine_eight
+_core:
+  default_config_hash: za-39d5WDUg6XvbyqSnuVYEeq6QM4qKJxW8MnoAha5A
+id: engine_eight_search
+theme: engine_eight
+region: sidebar_first
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

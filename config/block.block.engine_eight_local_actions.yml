@@ -1,0 +1,20 @@
+uuid: 17b5ec8e-8550-40c5-9911-c6f8a5c09d18
+langcode: en
+status: true
+dependencies:
+  theme:
+    - engine_eight
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: engine_eight_local_actions
+theme: engine_eight
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }
