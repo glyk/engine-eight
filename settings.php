@@ -811,3 +811,4 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\sqlite',
   'driver' => 'sqlite',
 );
+$settings['tome_static_directory'] = 'sites/default/files/tome_static';

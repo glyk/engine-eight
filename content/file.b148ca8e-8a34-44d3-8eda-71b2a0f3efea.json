@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b148ca8e-8a34-44d3-8eda-71b2a0f3efea"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "filename": [
+        {
+            "value": "dsSEu3kHo7Y.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2019-06\/dsSEu3kHo7Y.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 125443
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-14T11:06:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-14T11:06:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

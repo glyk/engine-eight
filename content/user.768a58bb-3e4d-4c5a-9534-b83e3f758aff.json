@@ -1,0 +1,88 @@
+{
+    "uid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "e8root"
+        }
+    ],
+    "mail": [
+        {
+            "value": "hello@engine-eight.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-12T08:08:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-14T11:07:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "9b43f224-4870-4b83-aed6-f2c301b3a01c"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [],
+    "field_last_name": [
+        {
+            "value": "Layeuski"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "Maksim"
+        }
+    ],
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 911,
+            "height": 1080,
+            "target_type": "file",
+            "target_uuid": "b148ca8e-8a34-44d3-8eda-71b2a0f3efea"
+        }
+    ]
+}

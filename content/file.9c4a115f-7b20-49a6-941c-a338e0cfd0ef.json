@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "9c4a115f-7b20-49a6-941c-a338e0cfd0ef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "filename": [
+        {
+            "value": "generateImage_MtAZ2r.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-06\/generateImage_MtAZ2r.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1646
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-14T10:23:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-14T10:23:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

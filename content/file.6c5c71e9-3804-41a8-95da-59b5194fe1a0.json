@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "6c5c71e9-3804-41a8-95da-59b5194fe1a0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "filename": [
+        {
+            "value": "generateImage_H26C1X.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-06\/generateImage_H26C1X.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5641
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-14T10:20:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-14T10:20:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

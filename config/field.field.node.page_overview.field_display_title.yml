@@ -1,0 +1,19 @@
+uuid: 0b6cf8a2-0cff-455d-830e-2991d6a6954d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_display_title
+    - node.type.page_overview
+id: node.page_overview.field_display_title
+field_name: field_display_title
+entity_type: node
+bundle: page_overview
+label: 'Display title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

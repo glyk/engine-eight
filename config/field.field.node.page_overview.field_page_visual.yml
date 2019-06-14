@@ -1,0 +1,38 @@
+uuid: fb2aa21f-378d-40ec-83c1-454d1e974b15
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_page_visual
+    - node.type.page_overview
+  module:
+    - image
+id: node.page_overview.field_page_visual
+field_name: field_page_visual
+entity_type: node
+bundle: page_overview
+label: 'Page visual'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'png gif jpg jpeg'
+  max_filesize: ''
+  max_resolution: ''
+  min_resolution: ''
+  alt_field: true
+  alt_field_required: true
+  title_field: false
+  title_field_required: false
+  default_image:
+    uuid: ''
+    alt: ''
+    title: ''
+    width: null
+    height: null
+  handler: 'default:file'
+  handler_settings: {  }
+field_type: image

@@ -1,0 +1,24 @@
+uuid: 54f05852-031b-47c9-acbd-f6e16cef578a
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.blog
+  module:
+    - views
+  theme:
+    - engine_eight
+id: views_block__blog_block_1
+theme: engine_eight
+region: hidden
+weight: -7
+provider: null
+plugin: 'views_block:blog-block_1'
+settings:
+  id: 'views_block:blog-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility: {  }

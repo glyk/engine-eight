@@ -1,0 +1,23 @@
+uuid: 300b7afc-f167-47b2-b5b3-ed86416137a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_overview
+    - node.type.page_overview
+id: node.page_overview.field_overview
+field_name: field_overview
+entity_type: node
+bundle: page_overview
+label: Overview
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:block'
+  handler_settings:
+    target_bundles: null
+    auto_create: false
+field_type: entity_reference

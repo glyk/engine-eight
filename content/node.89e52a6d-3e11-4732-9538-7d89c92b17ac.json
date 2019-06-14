@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "4d8c14c8-4c78-4938-9d20-59e82470548d"
+            "value": "89e52a6d-3e11-4732-9538-7d89c92b17ac"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "type": [
         {
-            "target_id": "article",
+            "target_id": "page_overview",
             "target_type": "node_type",
-            "target_uuid": "dc7c32de-aa5b-4284-bef4-c87b5045cc3b"
+            "target_uuid": "aab4cc1b-d92e-4dca-b5a0-ce58221a1625"
         }
     ],
     "revision_timestamp": [
         {
-            "value": "2019-06-12T12:15:19+00:00",
+            "value": "2019-06-14T11:15:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -34,32 +34,32 @@
             "value": true
         }
     ],
-    "title": [
-        {
-            "value": "Blogpost 1"
-        }
-    ],
     "uid": [
         {
             "target_type": "user",
             "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
         }
     ],
+    "title": [
+        {
+            "value": "Blog overview"
+        }
+    ],
     "created": [
         {
-            "value": "2019-06-12T08:18:10+00:00",
+            "value": "2019-06-14T09:58:21+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-06-12T12:15:19+00:00",
+            "value": "2019-06-14T11:15:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": true
+            "value": false
         }
     ],
     "sticky": [
@@ -72,37 +72,37 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
-            "alias": "\/blog\/blogpost-1",
+            "alias": "\/blog",
             "pid": null,
             "langcode": "en",
             "pathauto": 0
         }
     ],
     "menu_link": [],
-    "body": [
+    "body": [],
+    "field_display_title": [
         {
-            "value": "<p>Blogpost 1<\/p>\r\n",
-            "format": "basic_html",
-            "summary": ""
+            "value": "Blog"
         }
     ],
-    "comment": [
+    "field_overview": [
         {
-            "status": 2,
-            "cid": 0,
-            "last_comment_timestamp": 0,
-            "last_comment_name": "",
-            "last_comment_uid": 0,
-            "comment_count": 0
+            "target_id": "views_block__blog_block_1",
+            "target_type": "block",
+            "target_uuid": "54f05852-031b-47c9-acbd-f6e16cef578a"
         }
     ],
-    "field_image": [],
-    "field_tags": []
+    "field_page_visual": [
+        {
+            "alt": "Blog overview",
+            "title": "",
+            "width": 2044,
+            "height": 1363,
+            "target_type": "file",
+            "target_uuid": "10893363-cf34-478b-ae5e-8773a955a454"
+        }
+    ]
 }

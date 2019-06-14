@@ -1,0 +1,18 @@
+uuid: aab4cc1b-d92e-4dca-b5a0-ce58221a1625
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Page - Overview'
+type: page_overview
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

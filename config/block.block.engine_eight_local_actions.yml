@@ -8,8 +8,8 @@ _core:
   default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
 id: engine_eight_local_actions
 theme: engine_eight
-region: content
-weight: -20
+region: hidden
+weight: -1
 provider: null
 plugin: local_actions_block
 settings:

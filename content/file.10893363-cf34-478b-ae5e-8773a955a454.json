@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "10893363-cf34-478b-ae5e-8773a955a454"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "768a58bb-3e4d-4c5a-9534-b83e3f758aff"
+        }
+    ],
+    "filename": [
+        {
+            "value": "090117-dakar2017-maz-sport-auto-5.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-06\/090117-dakar2017-maz-sport-auto-5.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1922825
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-14T10:14:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-14T10:14:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

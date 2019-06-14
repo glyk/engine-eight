@@ -1,4 +1,4 @@
-uuid: 7272b096-3403-4dcf-a88c-1b67877d6988
+uuid: 359f3ece-d39a-4f8b-b108-b31bc41b6ed2
 langcode: en
 status: true
 dependencies: {  }
@@ -7,5 +7,4 @@ _core:
 name: Tags
 vid: tags
 description: 'Use tags to group articles on similar topics into categories.'
-hierarchy: 0
 weight: 0

@@ -10,8 +10,8 @@ _core:
   default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
 id: engine_eight_branding
 theme: engine_eight
-region: header
-weight: 0
+region: hidden
+weight: -4
 provider: null
 plugin: system_branding_block
 settings:

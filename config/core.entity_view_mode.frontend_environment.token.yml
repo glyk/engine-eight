@@ -1,0 +1,10 @@
+uuid: c07a5ec3-eda9-40d4-85d0-6410c3ef6b8a
+langcode: en
+status: true
+dependencies:
+  module:
+    - build_hooks
+id: frontend_environment.token
+label: Token
+targetEntityType: frontend_environment
+cache: true
